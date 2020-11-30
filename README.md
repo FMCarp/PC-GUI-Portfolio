@@ -1,6 +1,6 @@
 # PC GUI **Portfolio**
 
-Some of my Windows PC GUI projects <br />
+Some of my Windows PC GUI projects. <br />
 They are designed in Visual C# and intended to configure, test and control different boards and platforms.
 
 #
