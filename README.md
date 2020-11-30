@@ -16,9 +16,11 @@ Mass production PCB in-system tester <br />
 
 Mass production PCB in-system tester - view generated report as CSV file <br />
 ![EW SMDT Test ViewReports](https://user-images.githubusercontent.com/29917546/100619171-72565880-3325-11eb-958d-3fc5452c9e38.png)
+&NewLine;
 
 Operators management <br />
 ![EW SMDT Test Operators Management ](https://user-images.githubusercontent.com/29917546/100618843-04119600-3325-11eb-8b44-1400fbc9a88f.jpg)
+&NewLine;
 
 Mechatronics system endurance tester <br />
 ![EW SMDT Endurance](https://user-images.githubusercontent.com/29917546/100616390-b9424f00-3321-11eb-9668-1ef369744bf2.png)
